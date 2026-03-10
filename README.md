@@ -14,13 +14,12 @@
 
 Options Lab is a professional-grade quantitative finance tool that bridges the gap between academic pricing theory and practical market intuition. It started as a simple Black-Scholes vs Monte Carlo comparison tool and was extended into a full five-tab analytical platform covering pricing, risk sensitivities, implied volatility, the volatility surface, and live market data integration.
 
-Built as Project 1 of 8 in a quant finance portfolio targeting quantitative analyst, quant developer, and financial data science roles.
 
 ---
 
 ## Live Demo
 
-🔗 **[options-lab.streamlit.app](https://options-lab.streamlit.app)** ← deploy URL goes here
+🔗 **[options-lab.streamlit.app](https://options-lab-rudradubey.streamlit.app/)** 
 
 ---
 
@@ -259,8 +258,8 @@ font = "monospace"
 MSc Data Science · King's College London
 BSc Physics (2:1) · University of Exeter
 
-[github.com/rudra-d6](https://github.com/rudra-d6) · [LinkedIn](#)
+[github.com/rudra-d6](https://github.com/rudra-d6) · [LinkedIn](www.linkedin.com/in/rudra-dubey-306465294)
 
 ---
 
-*Project 1 of 8 — Options Pricing & Volatility Surface Tool*
+ *Options Pricing & Volatility Surface Tool*

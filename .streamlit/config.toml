@@ -1,0 +1,10 @@
+# .streamlit/config.toml
+[theme]
+base = "dark"
+backgroundColor = "#0a0c0f"
+secondaryBackgroundColor = "#0d1017"
+textColor = "#d4d8dd"
+font = "monospace"
+
+[server]
+headless = true
